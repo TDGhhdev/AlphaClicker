@@ -1,32 +1,6 @@
+Small edits to GUI (very small at time of writing), all credit to robiot (original Github repo link below). Please, use his EXE unless you are well capable of compiling it yourself.
 
-<div align="center" >
-  <br>
-  <img src="https://raw.githubusercontent.com/robiot/AlphaClicker/main/.github/Images/banner.png">
-  <br>
-  
-  <img alt="GitHub All Releases" src="https://img.shields.io/github/contributors/robiot/AlphaClicker?label=Contributors">
-  <img alt="GitHub Latest Release" src="https://img.shields.io/github/v/tag/robiot/AlphaClicker?label=Latest%20Release">
-  <img alt="GitHub Total Downloads" src="https://img.shields.io/github/downloads/robiot/AlphaClicker/total?label=GitHub%20Downloads">
-  <img alt="GitHub Total Issues" src="https://img.shields.io/github/issues/robiot/AlphaClicker?label=Issues">  
-  <img alt="GitHub Total Pull Requests" src="https://img.shields.io/github/issues-pr-raw/robiot/AlphaClicker?label=Open%20Pull%20Requests">
-  
-  <br>
-  <a href="https://github.com/robiot/AlphaClicker/releases/latest/download/AlphaClicker.exe">Download Latest</a>
-  <hr>
-</div>
-<br>
-
-:thinking: What is this?
-------------------
-<img src="https://raw.githubusercontent.com/robiot/AlphaClicker/main/.github/Images/alphaclicker.png" width=400/><img src="https://raw.githubusercontent.com/robiot/AlphaClicker/main/.github/Images/alphaclicker-dark.png" width=400/>
-
-Alpha Clicker is a autoclicker for Windows with a **modern user interface**. :art:
-
-:cyclone: Why Alpha Clicker?
-------------------
-<img src="https://raw.githubusercontent.com/robiot/AlphaClicker/main/.github/Images/showcase.gif" />
- 
- - It is open source, unlike many other autoclickers
+-[TDG]HHDev
 
 
 ### :art: Design:

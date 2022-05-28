@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         ResizeMode="CanMinimize"
         WindowStyle="None"
-        Title="Alpha Clicker"
+        Title="[TDG]Click-Clock"
         Height="430" Width="460"
         Background="{x:Null}"
         AllowsTransparency="True"
@@ -45,7 +45,7 @@
             </Grid.RowDefinitions>
 
 
-            <Label x:Name="windowTitle" Content="Alpha Clicker"
+            <Label x:Name="windowTitle" Content="[TDG]Click-Clock"
                    FontSize="15"
                    
                    VerticalAlignment="Center"
@@ -347,4 +347,3 @@
 
     </Border>
 </Window>
-

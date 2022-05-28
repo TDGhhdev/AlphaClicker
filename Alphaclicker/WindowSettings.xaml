@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         ResizeMode="CanMinimize"
         WindowStyle="None"
-        Title="Alpha Clicker Settings"
+        Title="Click-Clock Settings"
         Height="133" Width="300"
         Background="{x:Null}"
         AllowsTransparency="True"
